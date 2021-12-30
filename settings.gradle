@@ -1,0 +1,5 @@
+rootProject.name = 'google-calendar-mock'
+include 'calendar-core'
+include 'calendar-api'
+include 'calendar-batch'
+
